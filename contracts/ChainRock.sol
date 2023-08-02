@@ -21,7 +21,7 @@ contract ChainRock is ERC721Enumerable, Ownable {
 
     /**
       * @dev ERC721 constructor takes in a `name` and a `symbol` to the token collection.
-      * name in our case is `Chain Rock` and symbol is `CD`.
+      * name in our case is `Chain Rock` and symbol is `CR`.
       * Constructor for Chain Rock takes in the baseURI to set _baseTokenURI for the collection.
       * It also initializes an instance of whitelist interface.
       */
