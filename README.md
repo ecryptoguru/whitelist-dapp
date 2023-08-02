@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# NFT-Whitelist Hardhat Project
 
 We want to launch an NFT Collection named Chain Rock on Sepolia Testnet - but we want our early supporters to get guaranteed access to your NFT mint when it happens. We are building a whitelist dApp first and allowing our early supporters to join the whitelist. Being on the whitelist will give them guaranteed access to mint the NFT once your collection launches!
 
